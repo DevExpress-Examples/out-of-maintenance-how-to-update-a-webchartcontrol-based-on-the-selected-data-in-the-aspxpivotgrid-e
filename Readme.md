@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to update a WebChartControl based on the selected data in the ASPxPivotGrid
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1618/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display a series in the WebChartControl based on a selected column/row in the ASPxPivotGrid.</p><p>The most important features:</p><p>1) Once a user somehow modified the ASPxPivotGrid (e. g. sorted or filtered its data) a callback is raised. Then the selected data is handled on the server and displayed in the WebChartControl.<br />
